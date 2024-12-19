@@ -308,7 +308,7 @@ var main_trial = {
 var ending = {
     type: jsPsychHtmlButtonResponse,
     stimulus: `
-    <h1 style="text-align:left; width:100%;">
+    <h1 style="text-align:left;">
     ご協力ありがとうございます。大変お疲れ様です。
     実験はこれで終わります。
     </h1>
